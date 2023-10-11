@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghdbashen&label=Profile%20views&color=0e75b6&style=flat" alt="ghdbashen" /> </p>
 
-<p align="left"> <a href="https://files.codingninjas.in/article_images/oracle-certified-professional-mysql-5-7-database-administrator-4-1653790366.jpg"><img src="https://files.codingninjas.in/article_images/oracle-certified-professional-mysql-5-7-database-administrator-4-1653790366.jpg" alt="ghdbashen" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ghdbashen" target="blank"><img src="https://img.shields.io/twitter/follow/ghdbashen?logo=twitter&style=for-the-badge" alt="ghdbashen" /></a> </p>
 
 - 🔭 I’m currently working on **University Projects**
