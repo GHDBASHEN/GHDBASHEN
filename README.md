@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **University Projects**
 
-- 🌱 I’m currently learning **Python,PHP,SQL,JAVA,JS**
+- 🌱 I’m currently learning **Python,Php,Sql,Java,Js**
 
 - 👯 I’m looking to collaborate on **Anyone**
 
 - 👨‍💻 All of my projects are available at [https://ghdbashen.github.io/](https://ghdbashen.github.io/)
 
-- 💬 Ask me about **SQL,C,Javascript,CSS,HTML**
+- 💬 Ask me about **Sql,C,Javascript,Css,Html**
 
 - 📫 How to reach me **ghdbashen@gmail.com**
 
