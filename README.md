@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashen</h1>
-<h3 align="center">A Database Administrator.</h3>
+<h3 align="center">Database Administrator.</h3>
 
 
 - 🔭 I’m currently working on **University Projects**
