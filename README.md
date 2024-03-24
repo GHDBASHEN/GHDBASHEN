@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ghdbashen.github.io/](https://ghdbashen.github.io/)
 
-- 💬 Ask me about **Sql,C,Javascript,Css,Html**
+- 💬 Ask me about **Sql,C,Javascript,Css,Html,java**
 
 - 📫 How to reach me **ghdbashen@gmail.com**
 
