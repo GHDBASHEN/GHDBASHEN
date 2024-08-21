@@ -2,9 +2,9 @@
 <h3 align="center">Database Administrator.</h3>
 
 
-- 🔭 I’m currently working on **University Projects**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Python,Php,Sql,Java,Js**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Anyone**
 
