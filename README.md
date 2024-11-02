@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Languages <br>🎯 Goals: Hidden <br>🎲 Fun fact: Do you have any hidden talents?</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Languages <br>🎯 Goals: Hidden <br>🎲 Fun fact: Do you have any hidden Goals like me?</p>
 
 ###
 
