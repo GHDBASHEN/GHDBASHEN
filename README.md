@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ I will Code with Any Language because i am Using AI.<br>📚 I'm currently learning Languages <br>🎯 Goals: Hidden <br>🎲 Fun fact: Do you have any hidden Goals like me?</p>
+<p align="left">✨ I will code with Any Language because I am using AI.<br>📚 I'm currently learning Languages <br>🎯 Goals: Hidden <br>🎲 Fun fact: Do you have any hidden Goals like me?</p>
 
 ###
 
