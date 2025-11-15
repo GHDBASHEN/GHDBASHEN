@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ If you work hard, nothing is impossible.<br>📚 I'm currently learning Languages <br>🎯 Goals: Hidden <br>🎲 Fun fact: Coding Bugs were NOT named after an actual bug.</p>
+<p align="left">✨ If you work Smart, nothing is impossible.<br>📚 I'm currently learning Everything <br>🎯 Goals: Hidden <br>🎲 Fun fact: Coding Bugs were NOT named after an actual bug.</p>
 
 ###
 
