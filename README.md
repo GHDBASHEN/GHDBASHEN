@@ -1,9 +1,7 @@
-<details open>
-  <summary>
-    <h1 align="left" style="cursor:pointer;">
+
+ <h1 align="left" >
       Hey 👋 What's up?
     </h1>
-  </summary>
 
   <br>
 
@@ -11,8 +9,6 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=520&lines=Who+am+I%3F;What+am+I+learning+right+now%3F;Frontend%2C+Backend%2C+or+AI%3F;Want+to+build+something+cool%3F"
     alt="Typing animation"
   />
-
-</details>
 
 </br>
 
