@@ -1,10 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<details open>
+  <summary>
+    <h1 align="left" style="cursor:pointer;">
+      Hey 👋 What's up?
+    </h1>
+  </summary>
+
+  <br>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=520&lines=Who+am+I%3F;What+am+I+learning+right+now%3F;Frontend%2C+Backend%2C+or+AI%3F;Want+to+build+something+cool%3F"
+    alt="Typing animation"
+  />
+
+</details>
+
 </br>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  width="500">
-<br>
+</br
 
-<h2 align="left">About me</h2>
+
+<h1 align="left">About me</h1>
 
 ###
 
